@@ -21,5 +21,5 @@
   <a href="https://www.instagram.com/flaviac.alves183/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/flavia-maria-castro-alves-0035b3212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Flavia-C-Alves/Flavia-C-Alves/blob/output/github-contribution-grid-snake.svg)
 </div>
